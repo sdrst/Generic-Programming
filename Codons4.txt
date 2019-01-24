@@ -1,0 +1,21 @@
+Phe: TTT, TTC
+Leu: TTA, TTG, CTT, CTC, CTA, CTG
+Iso: ATT, ATC, ATA
+Start: ATG
+Val: GTT, GTC, GTA, GTG
+Ser: TCT, TCC, TCA, TCG, AGT, AGC
+Pro: CCT, CCC, CCA, CCG
+The: ACT, ACC, ACA, ACG
+Ala: GCT, GCC, GCA, GCG
+Tyr: TAT, TAC
+Stop: TAA, TAG, TGA
+His: CAT, CAC
+Glu: CAA, CAG
+Asp: AAT, AAC
+Lys: AAA, AAG
+AspA: GAT, GAC
+GluA: GAA, GAG
+Cys: TGT, TGC
+Try: TGG
+Arg: CGT, CGC, CGA, CGG, AGA, AGG
+Gly: GGT, GGC, GGA, GGG

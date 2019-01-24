@@ -1,0 +1,11 @@
+Pro: CCC, CCA
+The: ACC, ACA
+Stop: BAA, BBB, BBA, BAB
+His: CAC, BAC
+Glu: CAA, ABB, CAB, CBA
+Start: AAA, AAC
+Sys: ABC, ACB
+Mla: AAB, ABA
+Apl: BBC, BCA
+Cyr: BCB, BCC
+Dla: CBB, CBC, CCB
